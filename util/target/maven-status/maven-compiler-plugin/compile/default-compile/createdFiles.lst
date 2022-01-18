@@ -1,0 +1,7 @@
+com\boommotors\util\common\DateUtil.class
+com\boommotors\util\common\SchemaUtils.class
+com\boommotors\util\common\JsonUtil.class
+com\boommotors\util\common\PasswordHash.class
+com\boommotors\util\common\EncryptDecrypt.class
+com\boommotors\util\common\AppConstants.class
+com\boommotors\util\common\UUIDGenerationUtil.class

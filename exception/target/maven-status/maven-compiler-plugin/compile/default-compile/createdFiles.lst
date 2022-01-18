@@ -1,0 +1,3 @@
+com\boommotors\exception\AppException.class
+com\boommotors\exception\BadRequestException.class
+com\boommotors\exception\ResourceNotFoundException.class
